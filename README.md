@@ -25,9 +25,6 @@ The repository includes scripts and utilities for:
 To use the scripts in this repository, follow these installation instructions:
 
 1.  Clone the repository to your local machine:
-    
-    bashCopy code
-    
     `git clone <repository_url>` 
     
 2.  Install the necessary dependencies for each database driver:
